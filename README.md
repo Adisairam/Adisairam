@@ -7,7 +7,7 @@ I love working with data to discover patterns, build dashboards, and solve real-
 
 ---
 
-## 🛠️ Skills & Tools  
+##  Skills & Tools  
 
 
 
