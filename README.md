@@ -12,7 +12,7 @@ I love working with data to discover patterns, build dashboards, and solve real-
 
 
 -  **Data Analysis**: Advanced Excel | Google Sheets  
--  **Databases**: SQL (MySQL, PostgreSQL)  
+-  **Databases**: SQL (MySQL)  
 -  **Visualization**: Power BI | Matplotlib | Seaborn  
 -  **Programming**: Python (Pandas, NumPy, Scikit-learn)  
 
